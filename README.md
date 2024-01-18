@@ -1,1 +1,6 @@
-# KTvTKPM_Tuan02
+### Giới thiệu 
+# Tools sử dụng
+-Eclipse
+-SpingBoot
+-Microsoft Sql Server
+-PostMan
